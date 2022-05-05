@@ -4,4 +4,4 @@ def gamestart():
 class chracter():
     def __init__(self, strength, speed, intellegence,):
         self.strength= strch
-        
+        self.speed=speed
